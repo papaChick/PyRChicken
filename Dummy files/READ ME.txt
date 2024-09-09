@@ -1,0 +1,18 @@
+The Dummy Files
+====================================================================
+a set of files which serve as an alternative
+to test the application without having to change anything
+
+In the dummy attendance list, it consists of 10 STUDENTS.
+-) The extracurricullar scores can be found in the 'Ekskul' folder
+-) The subject scores can be found in the 'Subjects' folder
+
+Here are the following steps to use the Dummy files:
+-) Set the Class to '12.1', Semester to '1', and Year to '2022-2023'
+-) Set the 'Absen' to 'Dummy attendance list.xlsx'
+-) Set the Description to 'Description.xlsx'
+-) Set the Subject Folder to 'Subjects'
+-) Set the Extracurricular Folder to 'Ekskul'
+
+For the output, you can set it to any directory/path, it won't affect
+the process of generating report cards.
